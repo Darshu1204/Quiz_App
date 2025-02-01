@@ -1,7 +1,7 @@
 **** Installation and Setup ****
 
 Step 1: Clone the repository:
------>>> git clone github_repo_link
+----->>> git clone [github_repo_link](https://github.com/Darshu1204/Quiz_App.git)
 
 step 2:Install dependencies:
 ----->> npm install
